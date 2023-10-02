@@ -8,3 +8,6 @@ Before running the application is necessary to install the correct dependencies 
 
 To run the application use this command:
 - yarn dev
+
+To run the unit tests use this command:
+- yarn test
